@@ -1,0 +1,23 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 2
+First Student Details.: David Sidi
+Second Student Details: Ofir Cohen
+Delivery Date.........: 07.05.18
+Delivered In Delay....: No
+Delay Reason..........: 
+Visual Studio Version.: 2017
+Comments..............: 
+AI:
+Our AI is build from two main functions: 
+1. "MakeComputerEatingMove"
+2. "MakeComputerRegularMove"
+
+The function "MakeComputerEatingMove" is responsible for checking 
+if the computer has eating moves that he can do, and if he has, he will do them.
+If the computer has more than one eating  move available with the same soilder he will choose randomly which move he would like.
+In addition, if the computer has a player that after he eats, can eat again, the computer will know that and execute that, according to the numbers of players he can eat sequentially.
+
+The function "MakeComputerRegularMove" is responsible for checking if the computer has available regular moves.
+This is done if the MakeComputerEatingMove was unable to make one.
+The computer will choose between all the soldiers that can move, and from them it will choose randomly a valid place on board to move to.
+=======================End Exercise Checking Report=========================

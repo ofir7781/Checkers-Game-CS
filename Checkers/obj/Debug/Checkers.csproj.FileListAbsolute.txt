@@ -1,0 +1,11 @@
+C:\Users\ofir cohen\Desktop\New folder\Checkers\bin\Debug\Checkers.exe
+C:\Users\ofir cohen\Desktop\New folder\Checkers\bin\Debug\Checkers.pdb
+C:\Users\ofir cohen\Desktop\New folder\Checkers\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\ofir cohen\Desktop\New folder\Checkers\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
+C:\Users\ofir cohen\Desktop\New folder\Checkers\obj\Debug\Checkers.exe
+C:\Users\ofir cohen\Desktop\New folder\Checkers\obj\Debug\Checkers.pdb
+C:\Users\ofir cohen\Desktop\מדעי המחשב שנה ב\סמסטר ב\C sharp\עבודות הגשה סופיות אופיר\תרגיל 2\תרגיל 2 דדי ואופיר\Checkers\obj\Debug\Checkers.exe
+C:\Users\ofir cohen\Desktop\מדעי המחשב שנה ב\סמסטר ב\C sharp\עבודות הגשה סופיות אופיר\תרגיל 2\תרגיל 2 דדי ואופיר\Checkers\obj\Debug\Checkers.pdb
+C:\Users\ofir cohen\Desktop\מדעי המחשב שנה ב\סמסטר ב\C sharp\עבודות הגשה סופיות אופיר\תרגיל 2\תרגיל 2 דדי ואופיר\Checkers\bin\Debug\Checkers.exe
+C:\Users\ofir cohen\Desktop\מדעי המחשב שנה ב\סמסטר ב\C sharp\עבודות הגשה סופיות אופיר\תרגיל 2\תרגיל 2 דדי ואופיר\Checkers\bin\Debug\Checkers.pdb
+C:\Users\ofir cohen\Desktop\מדעי המחשב שנה ב\סמסטר ב\C sharp\עבודות הגשה סופיות אופיר\תרגיל 2\תרגיל 2 דדי ואופיר\Checkers\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
